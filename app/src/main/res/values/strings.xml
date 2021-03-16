@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="jason_steele">Jason Steele</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, My Name is Jason.
+        \n\nI am a quality-oriented professional who has been consistently praised as hard-working by my co-workers and management. Over the course of my 3-year career, I have deployed a skill set directly relevant to the Software Developer Field, including application development and preventative maintenance.
+        \n\nOverall, I have consistently demonstrated critical thinking, problem-solving and teamwork abilities in every aspect of my Software Support Coordinator / Developer role at Gordon Food Service\n\n</string>
+    <string name="bio_image">Bio Image</string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+
+</resources>
